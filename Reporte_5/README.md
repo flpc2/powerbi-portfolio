@@ -13,3 +13,5 @@ Vista 2: Visualización correspondiente a la revisión actual de académicos que
 Modelo de datos: La información obtenida para este reporte se obtenia en Excel y un documento compartido en Sharepoint. SPD contenia los documentos ya procesados de horas a pago, Prefichas SC las horas a revisar, las tablas de programación como información complementaria para facilitar la revisión, STVCOL para los nombres de las facultades y las tablas de orden para organizar los datos.
 
 ![alt text](image-2.png)
+
+Para mas detalle, el informe publicado: "https://app.powerbi.com/reportEmbed?reportId=ef2eb12c-89f8-49f6-b95c-b804eea04b26&autoAuth=true&ctid=60dac1b9-6047-489a-a134-b070386cccf7"
