@@ -2,7 +2,7 @@
 
 ## Reporte para profundizar metricas de los académicos que prestan servicios en la universidad
 
-Vista General: Muestra la composición por sede y contrato para el académico de su maximo grado de especialización, con el objetivo de mantener un indice de postgrados sobre el 70%%
+Vista General: Muestra la composición por sede y contrato para el académico de su maximo grado de especialización, con el objetivo de mantener un indice de postgrados sobre el 70%
 
 ![alt text](image.png)
 
