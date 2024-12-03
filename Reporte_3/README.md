@@ -10,7 +10,7 @@ Vista 2: Profundiza la Vista 1 con el detalle de el tipo de curso al que corresp
 
 ![alt text](image-1.png)
 
-Modelo de Datos: La información obtenida para este reporte se obtenia en Excel,Employee Data contenía la información de los docentes contratados, Panel de Cumplimiento la cantidad de horas que los académicos debían cumplir, CG3 calculaba la cantidad de horas que tenia el docente programado, Asistencia era información complementaria para explicar docentes que no cumplian con sus horas pactadas y tablas de Orden para la organización requerida de los datos.
+Modelo de Datos: La información obtenida para este reporte se obtenia en Excel, Employee Data contenía la información de los docentes contratados, Panel de Cumplimiento la cantidad de horas que los académicos debían cumplir, CG3 calculaba la cantidad de horas que tenia el docente programado, Asistencia era información complementaria para explicar docentes que no cumplian con sus horas pactadas y tablas de Orden para la organización requerida de los datos.
 
 ![alt text](image-2.png)
 
