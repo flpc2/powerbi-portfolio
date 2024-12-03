@@ -1,4 +1,4 @@
-#Reporte 3
+#Reporte 4
 
 ## Reporte para monitorear el cumplimiento de la política establecida para el máximo de horas que los académicos contratados pueden impartir
 
@@ -8,6 +8,8 @@ Vista 1 y 2: La visualización cuenta con dos pestañas una dedicada a cada seme
 
 ![alt text](image-1.png)
 
-Modelo de Datos: a información obtenida para este reporte se obtenia en Excel, Employee Data contenía la información de los docentes contratados y CG3 la cantidad de horas que impartian
+Modelo de Datos: La información obtenida para este reporte se obtenia en Excel, Employee Data contenía la información de los docentes contratados y CG3 la cantidad de horas que impartian
 
 ![alt text](image-2.png)
+
+Para mas detalle, el informe publicado: "https://app.powerbi.com/reportEmbed?reportId=af64f1bd-e928-45f9-b0b2-f16995e0abd6&autoAuth=true&ctid=60dac1b9-6047-489a-a134-b070386cccf7"
