@@ -1,2 +1,2 @@
 # powerbi-portfolio
-Portafolio con Dashboard hechos en Power Bi
+Github creado con el objetivo de presentar los reportes que he creado con Power BI
