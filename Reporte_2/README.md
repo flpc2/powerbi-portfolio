@@ -18,4 +18,4 @@ Modelo de Datos: La información obtenida para este reporte se obtenia en Excel,
 
 ![alt text](image-4.png)
 
-Para mas detalle, el informe publicado: "https://app.powerbi.com/reportEmbed?reportId=4d626f4a-fe34-4649-a84b-8918d5b4b72e&autoAuth=true&ctid=60dac1b9-6047-489a-a134-b070386cccf7"
+Video para enseñar su funcionamiento: : "https://youtu.be/UxDK34Verkc"
