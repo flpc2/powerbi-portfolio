@@ -14,4 +14,4 @@ Modelo de Datos: La información obtenida para este reporte se obtenia en Excel,
 
 ![alt text](image-2.png)
 
-Video para enseñar su funcionamiento: "https://youtu.be/f7d8tnk1Nxc"
+Para informe detallado : "https://app.powerbi.com/view?r=eyJrIjoiMzJhNTJjMmEtMzU0OC00YWI0LWIzZDQtYWNhYmYyNTZkZjk5IiwidCI6IjlkYjBmYmNlLTljM2QtNGJkYi1hMTJmLTc5Njg1OWRlZjY3NyIsImMiOjR9"
