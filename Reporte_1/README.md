@@ -26,4 +26,4 @@ Modelo de Datos: La información obtenida para hacer este reporte se cargaba med
 
 ![alt text](image-5.png)
 
-Video para enseñar su funcionamiento: "https://youtu.be/eWat9oiDwkw"
+Para informe detallado : "https://app.powerbi.com/view?r=eyJrIjoiNDQ4MTQyNzgtZDkzNi00MWZlLWI2MjYtODI5MmIyYThjNDIzIiwidCI6IjlkYjBmYmNlLTljM2QtNGJkYi1hMTJmLTc5Njg1OWRlZjY3NyIsImMiOjR9"
