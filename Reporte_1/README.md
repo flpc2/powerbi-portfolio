@@ -26,4 +26,4 @@ Modelo de Datos: La información obtenida para hacer este reporte se cargaba med
 
 ![alt text](image-5.png)
 
-Para informe detallado : "https://app.powerbi.com/view?r=eyJrIjoiNDQ4MTQyNzgtZDkzNi00MWZlLWI2MjYtODI5MmIyYThjNDIzIiwidCI6IjlkYjBmYmNlLTljM2QtNGJkYi1hMTJmLTc5Njg1OWRlZjY3NyIsImMiOjR9"
+Para informe detallado : "https://app.powerbi.com/view?r=eyJrIjoiMjJlMmIzYmUtYzhlYS00ZDUyLWFkZDAtMjY0YmNkZDYyY2Y1IiwidCI6IjlkYjBmYmNlLTljM2QtNGJkYi1hMTJmLTc5Njg1OWRlZjY3NyIsImMiOjR9"
