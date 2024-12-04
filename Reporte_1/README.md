@@ -26,4 +26,4 @@ Modelo de Datos: La información obtenida para hacer este reporte se cargaba med
 
 ![alt text](image-5.png)
 
-Para mas detalle, el informe publicado: "https://app.powerbi.com/reportEmbed?reportId=8d1b3d7a-ed20-4f48-a3ed-d0a5d544e78b&autoAuth=true&ctid=60dac1b9-6047-489a-a134-b070386cccf7"
+Video para enseñar su funcionamiento: "https://youtu.be/eWat9oiDwkw"
